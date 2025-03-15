@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text className="text-5xl font-montserrat-700">He1llo world</Text>
+      <Text className="text-5xl font-montserrat-700">Start Workout</Text>
     </View>
   );
 }
