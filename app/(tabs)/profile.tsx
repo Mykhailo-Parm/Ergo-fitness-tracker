@@ -1,7 +1,9 @@
-import {Text} from "react-native";
+import {Text, View} from "react-native";
 
 export default function ProfilePage() {
-    return (
-        <Text>Profile Page</Text>
-    );
+  return (
+    <View className="h-full bg-background p-5 ">
+      <Text>Profile Page</Text>
+    </View>
+  );
 }

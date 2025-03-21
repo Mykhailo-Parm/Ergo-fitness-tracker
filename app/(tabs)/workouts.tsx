@@ -1,7 +1,9 @@
-import {Text} from "react-native";
+import { Text, View } from "react-native";
 
 export default function WorkoutsPage() {
-    return (
-        <Text>Workouts Page</Text>
-    );
+  return (
+    <View className="h-full bg-background p-5">
+      <Text>Workouts Page</Text>
+    </View>
+  );
 }

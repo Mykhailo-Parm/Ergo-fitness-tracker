@@ -4,21 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb0ec5af-41bc-4485-be2e-60c01595990a" name="Changes" comment="chore: add basic style setup">
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/exercises.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/history.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/profile.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/workouts.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-barbell-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-book-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-clipboard-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-time-machine-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/icons8-user-64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/TabbarIcon.tsx" afterDir="false" />
+    <list default="true" id="cb0ec5af-41bc-4485-be2e-60c01595990a" name="Changes" comment="feat: add TabBar">
+      <change afterPath="$PROJECT_DIR$/app/(tabs)/stats.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/exercises.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/exercises.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/history.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/profile.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/workouts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/workouts.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Mykhailo-Parm&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Mykhailo-Parm/Ergo-fitness-tracker.git&quot;,
+    &quot;accountId&quot;: &quot;3786a923-f151-4eb2-9452-2dedb34abff0&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -46,7 +56,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/Projects/Ergo&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
@@ -58,7 +68,7 @@
     &quot;npm.reset-project.executor&quot;: &quot;Run&quot;,
     &quot;npm.start.executor&quot;: &quot;Run&quot;,
     &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;D:\\Projects\\Ergo\\node_modules\\prettier&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;ts.external.directory.path&quot;: &quot;D:\\Projects\\Ergo\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -133,7 +143,18 @@
       <workItem from="1742043376648" duration="443000" />
       <workItem from="1742043832359" duration="885000" />
       <workItem from="1742044731985" duration="7374000" />
-      <workItem from="1742052701596" duration="5072000" />
+      <workItem from="1742052701596" duration="7482000" />
+      <workItem from="1742297420393" duration="21333000" />
+      <workItem from="1742375128863" duration="4172000" />
+      <workItem from="1742390010223" duration="3000" />
+      <workItem from="1742399133250" duration="7065000" />
+      <workItem from="1742409194656" duration="345000" />
+      <workItem from="1742409888591" duration="2000" />
+      <workItem from="1742413601994" duration="2000" />
+      <workItem from="1742419910331" duration="5000" />
+      <workItem from="1742467487502" duration="3000" />
+      <workItem from="1742469964281" duration="1254000" />
+      <workItem from="1742591074523" duration="5996000" />
     </task>
     <task id="LOCAL-00001" summary="chore: add basic style setup">
       <option name="closed" value="true" />
@@ -151,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742047533651</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: add TabBar">
+      <option name="closed" value="true" />
+      <created>1742072267193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742072267193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +199,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore: add basic style setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: add basic style setup" />
+    <MESSAGE value="feat: add TabBar" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add TabBar" />
   </component>
 </project>
